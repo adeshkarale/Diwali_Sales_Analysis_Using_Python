@@ -1,2 +1,4 @@
 # Diwali_Sales_Analysis_Using_Python
-Performed exploratory data analysis (EDA) on Diwali sales data using Python, Pandas, Matplotlib, and Seaborn. Cleaned and preprocessed data, handled missing values, and conducted insights on customer purchasing behavior based on gender, age group, and product categories. Visualized key sales trends and patterns to derive business insights.
+Performed data cleaning and manipulation.Performed exxploratory data analysis(EDA) using pandas , matplotlib and seaborn libraries.
+Improved customer experience by identifying potential customers across different states , occupation , gender and age groups.
+Improved Sales by identifying most selling product categories and products which can help to plan inventory and hence meet the demands.
